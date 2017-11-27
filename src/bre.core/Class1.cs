@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Business_Rules_Engine
+namespace bre.core
 {
     public class Class1
     {
